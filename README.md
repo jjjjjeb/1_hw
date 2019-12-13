@@ -1,2 +1,2 @@
-# 1_hw
-Week 1 homework
+# Advanced Excel
+Utilizing Kickstart data
